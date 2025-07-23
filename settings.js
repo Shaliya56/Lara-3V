@@ -13,7 +13,7 @@ DEV: process.env.DEV || "94779062397",
 LANG: process.env.LANG || "SI", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_`ᴀᴜᴛᴏ ꜱᴛᴀᴛᴜꜱ ᴊᴜꜱᴛ ɴᴏᴡ ꜱᴇᴇɴ ʙʏ 𝚂𝙷𝙰𝙻𝙸 ᴍᴅ`_* 💃🏻",
 AUTO_BIO: process.env.AUTO_BIO || "true",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
